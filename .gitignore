@@ -1,0 +1,24 @@
+# Environments
+backend/.venv
+backend/venv
+.venv
+venv
+__pycache__
+backend/__pycache__
+
+# Dependencies
+frontend/node_modules
+node_modules
+
+# Large AI Model Weights (Exceeds GitHub 100MB limit)
+backend/aetl_pxnet.weights.h5
+*.h5
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
