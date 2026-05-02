@@ -88,7 +88,7 @@ const Home = () => {
       <div className="hero-section">
         <h1 className="hero-title">AI-Powered Chest X-Ray Diagnosis</h1>
         <p className="hero-subtitle">
-          Upload a chest X-ray image to detect Pneumonia instantly using our state-of-the-art Ensembled Transfer Learning model (AETL_PXNet) equipped with Grad-CAM explainability.
+          Upload a chest X-ray image to detect Pneumonia instantly using our state-of-the-art Ensembled Transfer Learning model (PneumoScan AI) equipped with Grad-CAM explainability.
         </p>
       </div>
 

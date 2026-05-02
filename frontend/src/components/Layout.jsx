@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
             <div className="brand-icon">
               <Activity color="var(--primary)" size={24} />
             </div>
-            AETL_PXNet Diagnostics
+            PneumoScan AI
           </div>
           <div className="nav-links">
             <NavLink to="/" className={({isActive}) => isActive ? "nav-link active" : "nav-link"}>
@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
 
       <footer>
         <div className="container">
-          AETL_PXNet - Automated AI Diagnosis System &copy; {new Date().getFullYear()}
+          PneumoScan AI — AI Pneumonia Diagnostic System &copy; {new Date().getFullYear()}
         </div>
       </footer>
     </div>

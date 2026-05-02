@@ -5,8 +5,8 @@ const About = () => {
   return (
     <div className="container about-container">
       <div className="about-header text-center">
-        <h1>Understanding Pneumonia & AI Diagnostics</h1>
-        <p>How AETL_PXNet revolutionizes continuous pulmonary care.</p>
+        <h1>Understanding Pneumonia & PneumoScan AI Diagnostics</h1>
+        <p>How PneumoScan AI revolutionizes continuous pulmonary care.</p>
       </div>
 
       <div className="about-content">
@@ -35,8 +35,7 @@ const About = () => {
         <section className="glass-panel info-card">
           <h2>How Our AI Model Works</h2>
           <p>
-            <strong>AETL_PXNet</strong> stands for Augmented Ensemble Transfer Learning Pneumonia X-Ray Network. 
-            The system combines multiple state-of-the-art Deep Learning technologies to assist medical professionals in rapid diagnosis.
+            <strong>PneumoScan AI</strong> uses an Augmented Ensemble Transfer Learning architecture to assist medical professionals in rapid diagnosis.
           </p>
 
           <div className="tech-grid">
